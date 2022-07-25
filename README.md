@@ -153,10 +153,12 @@ else:
                   ░                   
 ''')
 ```
+<img width="796" alt="Screen Shot 2022-07-24 at 8 01 52 PM" src="https://user-images.githubusercontent.com/66803124/180671406-cc6ee52a-57bf-4433-b44c-ecc9b7cebb04.png">
+
+Here is the solution: 
 
 <img width="1235" alt="Screen Shot 2022-07-24 at 7 52 21 PM" src="https://user-images.githubusercontent.com/66803124/180671024-299c7a7f-3c18-4095-bac1-ad780cf5f631.png">
 
-<img width="796" alt="Screen Shot 2022-07-24 at 8 01 52 PM" src="https://user-images.githubusercontent.com/66803124/180671406-cc6ee52a-57bf-4433-b44c-ecc9b7cebb04.png">
 
 If the user completes the entire game, they are rewarded with this message:
 ```
@@ -203,3 +205,5 @@ If the user completes the entire game, they are rewarded with this message:
                               \__|  \__|\______| \______/ \__|  \__|\__|
                               
 ```
+
+This projected tested if statements and nested statements. I also experimented with ASCII art and made a larger project with multiple inputs and combinations. 
